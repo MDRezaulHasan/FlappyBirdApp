@@ -1,0 +1,10 @@
+C:\Users\rezau\source\repos\FloppyBirdGameApp\bin\Debug\FloppyBirdGameApp.exe.config
+C:\Users\rezau\source\repos\FloppyBirdGameApp\bin\Debug\FloppyBirdGameApp.exe
+C:\Users\rezau\source\repos\FloppyBirdGameApp\bin\Debug\FloppyBirdGameApp.pdb
+C:\Users\rezau\source\repos\FloppyBirdGameApp\obj\Debug\FloppyBirdGameApp.csprojAssemblyReference.cache
+C:\Users\rezau\source\repos\FloppyBirdGameApp\obj\Debug\FloppyBirdGameApp.Form1.resources
+C:\Users\rezau\source\repos\FloppyBirdGameApp\obj\Debug\FloppyBirdGameApp.Properties.Resources.resources
+C:\Users\rezau\source\repos\FloppyBirdGameApp\obj\Debug\FloppyBirdGameApp.csproj.GenerateResource.cache
+C:\Users\rezau\source\repos\FloppyBirdGameApp\obj\Debug\FloppyBirdGameApp.csproj.CoreCompileInputs.cache
+C:\Users\rezau\source\repos\FloppyBirdGameApp\obj\Debug\FloppyBirdGameApp.exe
+C:\Users\rezau\source\repos\FloppyBirdGameApp\obj\Debug\FloppyBirdGameApp.pdb
